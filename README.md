@@ -24,5 +24,5 @@ Windows
 
 ## Librerías
 ```
-pip install ollama torch SpeechRecognition pyaudio datasets notebooks
+pip install ollama torch SpeechRecognition pyaudio datasets notebook
 ```
