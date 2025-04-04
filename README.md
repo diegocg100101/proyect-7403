@@ -14,12 +14,12 @@ py -3 -m venv .venv
 ### Ejecutar venv
 Linux
 ```
-. ./venv/bin/activate
+. ./.venv/bin/activate
 ```
 
 Windows
 ```
-& .\venv\bin\activate
+& .\.venv\bin\activate
 ```
 
 ## Librerías
