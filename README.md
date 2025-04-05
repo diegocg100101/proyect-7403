@@ -1,5 +1,11 @@
 # Proyect 7403
 
+## Tecnologías
+
+- Python
+- DeepSeek R1 8b
+- LoRA
+
 ## Virtual Environment
 Linux
 ```
@@ -24,5 +30,5 @@ Windows
 
 ## Librerías
 ```
-pip install ollama torch SpeechRecognition pyaudio datasets notebook pyttsx3
+pip install ollama torch SpeechRecognition pyaudio datasets notebook pyttsx3 transformers peft
 ```
